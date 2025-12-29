@@ -1,0 +1,20 @@
+# Generated images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.uv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
